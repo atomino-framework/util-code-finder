@@ -1,0 +1,17 @@
+{
+    "name": "atomino/util-code-finder",
+    "description": "PHP Code finder",
+    "keywords": ["class locator","file locator"],
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name": "Gergely Laborci",
+            "email": "gergely@laborci.hu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atomino\\Neutrons\\": "src/"
+        }
+    }
+}
